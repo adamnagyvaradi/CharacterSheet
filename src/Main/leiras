@@ -1,0 +1,9 @@
+
+
+A project lényege hogy a Dungeons and Dragons 5e asztali szerepjátékban megkönyítse a játékmester (DM) dolgát.
+Elsődlegesen a hat alap atribútum bevitele (Str, Dex, Con, Wis, Int, Char) és aok alapján a skillek kiszámítása valamit a skillek használata, támadások kiszámítása
+    valamint HP nyílvántartás.
+
+Ezt bővítve amint tudok UI-t készíteni egyszerre több NPC szimultán való kezelése.
+
+A végső fázis egy olyan program lenne hogy ne csak NPC-t hanem PC-t is lehessen készíteni a hozzá tartozó szabájok betartásával és aktív használatával.
